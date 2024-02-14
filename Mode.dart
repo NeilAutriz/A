@@ -1,3 +1,5 @@
+//BAGO NA TO OH
+
 void calculateOccurrencesAndPrintProducts(List<int> inputList) {
   // List to store the products of each element with its count
   List<int> products = [];
